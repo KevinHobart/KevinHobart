@@ -7,15 +7,8 @@ I’m a dependable, detail-focused professional with 25+ years of experience hel
 ## Objective
 
 
-I’m now channeling my experience for problem-solving and precision into a new career in IT, and I’m excited to keep learning and growing in this space.
+I’m now channeling my experience in problem-solving and precision into a new career in IT, and I’m excited to keep learning and growing in this space.
 
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Microsoft Active Directory                    | <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Peppermint Labs Ticketing Software            | <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab</a>|
 
 
 
