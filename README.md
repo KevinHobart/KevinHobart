@@ -25,9 +25,9 @@ I am currently looking to bring my professional experience, strong work ethic, a
 ## Personal Development
 
 <div>
-<a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 
-<a href="https://coursera.org/share/c0c65fb5a1a8bfd90668f0fa7775c20e"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://coursera.org/share/c0c65fb5a1a8bfd90668f0fa7775c20e"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 
 <a href="https://academy.tcm-sec.com/courses/2537874/certificate"><img src="https://img.shields.io/badge/TCM%20Security-Practical%20Help%20Desk%20Certificate-2b2b2b?style=for-the-badge" />
 
