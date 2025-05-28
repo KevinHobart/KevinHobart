@@ -38,4 +38,4 @@ I am currently looking to bring my professional experience, strong work ethic, a
 
 ## Projects
 - <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>
-- Peppermint Labs Ticketing Lab
+- Ticketing Lab using Peppermint Labs Ticketing Software
