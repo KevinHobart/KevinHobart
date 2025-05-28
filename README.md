@@ -2,9 +2,8 @@
 <a href="https://www.linkedin.com/in/kevin-hobart-47a1984"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-I am a reliable and detail-oriented professional with over 25 years of experience in providing client support and services through various industries including: high-end furniture retail sales and delivery, General Aviation parts sales & flight instrument repair, and musical instrument repair and maintenance.  
-
+ 
+I’m a dependable, detail-focused professional with 25+ years of experience helping people and solving problems across a variety of industries. Whether it's high-end furniture sales and delivery, general aviation parts and flight instrument repair, or keeping musical instruments in top shape for local schools, I’ve always enjoyed working hands-on and making sure clients get the service they need.
 ## Objective
 
 
