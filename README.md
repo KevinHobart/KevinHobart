@@ -16,7 +16,7 @@ I am currently looking to bring my professional experience, strong work ethic, a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Microsoft Active Directory                    | <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Peppermint Labs Ticketing Software            | <a href="https://google.com">Ticketing Lab</a>|
+| Peppermint Labs Ticketing Software            | <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab</a>|
 
 
 
@@ -38,4 +38,4 @@ I am currently looking to bring my professional experience, strong work ethic, a
 
 ## Projects
 - <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>
-- Ticketing Lab using Peppermint Labs Ticketing Software
+- <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab using Peppermint Labs Ticketing Software</a>
