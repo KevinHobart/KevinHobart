@@ -7,7 +7,7 @@ I’m a dependable, detail-focused professional with 25+ years of experience hel
 ## Objective
 
 
-I am currently looking to bring my professional experience, strong work ethic, and technical skills to a role in the IT sector.
+Now, I’m channeling that same passion for problem-solving and precision into a new career in IT, and I’m excited to keep learning and growing in this space.
 
 ## Skills
 
