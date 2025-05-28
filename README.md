@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kevin-hobart-47a1984"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I’m a dependable, detail-focused professional with 25+ years of experience helping people and solving problems across a variety of industries.  From repairing and re-certifying flight instruments for general aviation aircraft, to selling and delivering high-end furniture, to keeping school band instruments repaired and in good playing condition, I've always enjoyed hands-on work and making sure people are well taken care of.
+I’m a dependable, detail-focused professional with more than 25 years of experience helping people and solving problems across a variety of industries.  From repairing and re-certifying flight instruments for general aviation aircraft, to selling and delivering high-end furniture, to keeping school band instruments repaired and in good playing condition, I've always enjoyed hands-on work and making sure people are well taken care of.
 ## Objective
 
 
@@ -10,11 +10,14 @@ I’m now looking forward to bringing my experience in problem-solving and custo
 </div>
 
 ## Personal Development
+### Courses and Learning Platforms
 <div>
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 <a href="https://coursera.org/share/c0c65fb5a1a8bfd90668f0fa7775c20e"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 
-<a href="https://academy.tcm-sec.com/courses/2537874/certificate"><img src="https://img.shields.io/badge/TCM%20Security-Practical%20Help%20Desk%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://academy.tcm-sec.com/courses/2537874/certificate"><img src="https://img.shields.io/badge/TCM%20Security-Practical%20Help%20Desk%20Course%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://academy.tcm-sec.com/courses/2635065/certificate"><img src="https://img.shields.io/badge/TCM%20Security-Programming%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://academy.tcm-sec.com/courses/2631779/certificate"><img src="https://img.shields.io/badge/TCM%20Security-Linux%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
 </div>
 
 ## Projects
