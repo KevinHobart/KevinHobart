@@ -3,7 +3,7 @@
 
 
  
-I’m a dependable, detail-focused professional with 25+ years of experience helping people and solving problems across a variety of industries. Whether it's high-end furniture sales and delivery, general aviation flight instrument repair, or keeping musical instruments in top shape for local schools, I’ve always enjoyed working hands-on and making sure clients get the service they need.
+I’m a dependable, detail-focused professional with 25+ years of experience helping people and solving problems across a variety of industries. Whether it's high-end furniture sales and delivery, flight instrument repair for general aviation aircraft, or keeping musical instruments in top shape for local schools, I’ve always enjoyed working hands-on and making sure clients get the service they need.
 ## Objective
 
 
