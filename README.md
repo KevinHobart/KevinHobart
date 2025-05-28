@@ -22,7 +22,7 @@ I am currently looking to bring my professional experience, strong work ethic, a
 
 </div>
 
-## Certificates of Completion
+## Personal Development
 
 <div>
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Google&logoColor=white" />
