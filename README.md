@@ -15,9 +15,9 @@ I’m now looking forward to bringing my experience in problem-solving and custo
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 <a href="https://coursera.org/share/c0c65fb5a1a8bfd90668f0fa7775c20e"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 
-<a href="https://drive.google.com/file/d/1OJeJphRseLokJror3Qnjn0M4kkFXFDYL/view?usp=sharing"><img src="https://img.shields.io/badge/TCM%20Security-Practical%20Help%20Desk%20Course%20Certificate-2b2b2b?style=for-the-badge" />
-<a href="https://drive.google.com/file/d/1VcjSSogtjEZOGSum6w6K9vi8IcJTV3on/view?usp=sharing"><img src="https://img.shields.io/badge/TCM%20Security-Programming%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
-<a href="https://drive.google.com/file/d/11Cb7PPvacdICbuNIkOQK7lIP7pXkjPC8/view?usp=sharing"><img src="https://img.shields.io/badge/TCM%20Security-Linux%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://i.imgur.com/Uvu3eik.jpg"><img src="https://img.shields.io/badge/TCM%20Security-Practical%20Help%20Desk%20Course%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://i.imgur.com/420cKIc.jpg"><img src="https://img.shields.io/badge/TCM%20Security-Programming%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
+<a href="https://i.imgur.com/7iOR6zs.jpg"><img src="https://img.shields.io/badge/TCM%20Security-Linux%20100:%20Fundamentals%20Course%20Certificate-2b2b2b?style=for-the-badge" />
 </div>
 
 ## Projects
