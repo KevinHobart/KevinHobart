@@ -10,12 +10,12 @@ I’m now looking forward to bringing my experience in problem-solving and custo
 </div>
 
 ## Projects
-- <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>
-- <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab using Peppermint Labs Ticketing Software</a>
+- <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a><div> This guided lab is from the Practical Help Desk course from TCM.  It involves setting up Active Directory on a virtual machine.
+- <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab using Peppermint Labs Ticketing Software</a><div> This guided lab is from the Practical Help Desk course from TCM.  It involves setting up Peppermint in Docker container.
 
 ## Personal Development
 ### Courses and Learning Platforms
-</div>
+<div>
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
 <div>
 <a href="https://coursera.org/share/c0c65fb5a1a8bfd90668f0fa7775c20e"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
