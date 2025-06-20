@@ -11,7 +11,7 @@ I’m now looking forward to bringing my experience in problem-solving and custo
 
 ## Projects
 - <a href="https://github.com/KevinHobart/Active-Directory-Lab/tree/main">Active Directory Lab</a>
-  - This guided lab is from the Practical Help Desk course from TCM.  It involves setting up Active Directory on a virtual machine.
+  - This guided home lab set up is based on the Active Directory Lab section of the Practical Help Desk course from TCM.  It involves setting up an Active Directory domain and a client/user computer on VirtualBox.
 - <a href="https://github.com/KevinHobart/Ticketing-Lab/tree/main">Ticketing Lab using Peppermint Labs Ticketing Software</a>
   - This guided lab is from the Practical Help Desk course from TCM.  It involves setting up Peppermint in a Docker container.
 
