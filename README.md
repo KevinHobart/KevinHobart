@@ -16,6 +16,7 @@ I’m now looking forward to bringing my experience in problem-solving and custo
   - This guided project is from the Practical Help Desk course from TCM.  It involves setting up Peppermint in a Docker container. -->
 
 ## Personal Development
+
 ### Courses and Learning Platforms
 <div>
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
