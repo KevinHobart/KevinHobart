@@ -17,6 +17,11 @@ I’m now looking forward to bringing my experience in problem-solving and custo
 
 ## Personal Development
 
+### Certifications
+<div>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/6455ab8bc4794b10a96ef8253662afa3"><img src="https://img.shields.io/badge/CompTIA-Tech%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div>
+  
 ### Courses and Learning Platforms
 <div>
 <a href="https://coursera.org/share/a138988b3aa7f7b54d5374b69ccac707"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Support%20Professional%20Certificate-blue?style=for-the-badge&logo=Coursera&logoColor=white" />
